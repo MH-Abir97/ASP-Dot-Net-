@@ -6,10 +6,10 @@ Dependency Injection is a design pattern used to make objects loosely coupled mo
 
 To implement Dependency Injection in C#, you need to follow these steps:
 
-1.Identify the dependencies of your object.
-2.Create an interface that defines the methods for those dependencies.
-3.Implement that interface in the dependent object.
-4.Use a Dependency Injection framework to inject the dependencies into the dependent object.
+1.Identify the dependencies of your object.   
+2.Create an interface that defines the methods for those dependencies.  
+3.Implement that interface in the dependent object.  
+4.Use a Dependency Injection framework to inject the dependencies into the   dependent object.
 
 In C#, there are several Dependency Injection frameworks available that help to implement this pattern, such as:
 
